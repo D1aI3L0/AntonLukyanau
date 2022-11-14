@@ -3,7 +3,7 @@
 
 
 #include "Exceptions/Exceptions.h"
-#include "../Lab5/Templates/Templates.h"
+#include "Templates/Templates.h"
 #include "Input.h"
 #include "Files/Files.h"
 
