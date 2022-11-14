@@ -1,7 +1,7 @@
 #ifndef LAB5_MATRIX_H
 #define LAB5_MATRIX_H
 
-#include "../../Lab6-7/Input.h"
+#include "../Input.h"
 #include <fstream>
 #include <iomanip>
 
