@@ -1,7 +1,7 @@
 #ifndef LAB5_QUEUE_H
 #define LAB5_QUEUE_H
 
-#include "../../Lab6-7/Input.h"
+#include "../Input.h"
 #include "fstream"
 
 using namespace std;
